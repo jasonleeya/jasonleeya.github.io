@@ -7,7 +7,7 @@ const __dirname = getDirname(import.meta.url);
 
 
 export default defineUserConfig({
-  base: "/blog_dist/",
+  base: "/blog/",
 
   lang: "zh-CN",
   title: "JasonLee的博客",
