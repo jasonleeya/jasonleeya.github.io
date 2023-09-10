@@ -1,1 +1,10 @@
 // place your custom styles here
+.icon-wrapper.active{
+  color: #fff;
+}
+
+@media (max-width: 719px){
+  .vp-blog-hero-image {
+    max-height: 8rem;
+  }
+}
