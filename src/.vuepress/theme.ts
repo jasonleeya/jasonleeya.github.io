@@ -39,7 +39,7 @@ export default hopeTheme(
     description: "一个前端开发攻城狮",
     intro: "/intro.html",
     medias: {
-      QQ: `?account=1615685977&url=${encodeURIComponent('http://wpa.qq.com/msgrd?v=3&uin=1615685977&site=qq&menu=yes')}`,
+      QQ: `?account=1615685977&url=${encodeURIComponent('mqqapi://card/show_pslcard?src_type=internal&version=1&uin=1615685977&card_type=person&source=sharecard')}`,
       Wechat: "?qrcodeImg=wechat_qrcode.jpg",
       GitHub: `?account=jasonleeya&url=${encodeURIComponent('https://github.com/jasonleeya')}`,
       Email: `?account=1615685977@qq.com&url=mailto:1615685977@qq.com`,
