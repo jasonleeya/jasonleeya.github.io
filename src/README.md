@@ -5,7 +5,7 @@ icon: home
 title: 博客主页
 heroImage: /logo.svg
 heroText: JasonLee的博客
-heroFullScreen: false
+heroFullScreen: true
 tagline: 
 projects:
 #  - icon: project

@@ -7,4 +7,15 @@
   .vp-blog-hero-image {
     max-height: 8rem;
   }
+  .vp-sidebar {
+    padding-top: 20px;
+  }
+  .bing-switch {
+    top: 20px;
+    bottom: unset;
+    .bing-info{
+      top:calc(100% + 4px);
+      bottom: unset;
+    }
+  }
 }
