@@ -65,7 +65,7 @@ export default hopeTheme(
     comment: {
       // You should generate and use your own comment service
       provider: "Waline",
-      serverURL: "https://blog-j3j44ilux-jasonleeya.vercel.app",
+      serverURL: "https://blog-jglb93dn2-jasonleeya.vercel.app",
     },
 
     // all features are enabled for demo, only preserve features you need here
