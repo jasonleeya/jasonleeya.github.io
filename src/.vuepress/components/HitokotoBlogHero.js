@@ -27,7 +27,7 @@ export default defineComponent({
         const display = ref("");
         const author = ref("");
         let isMounted = false;
-        const getHitokoto = () => fetch("https://v1.hitokoto.cn")
+        const getHitokoto = () => fetch("https://v1.hitokoto.cn?c=d&c=h&c=i&c=k&c=j")
             .then((res) => res.json())
             .then(({ from, hitokoto }) => {
             text.value = hitokoto;
@@ -49,7 +49,7 @@ export default defineComponent({
                         else if (isMounted)
                             setTimeout(() => {
                                 void getHitokoto();
-                            }, 10000);
+                            }, 5000);
                     });
                 };
                 void renderNextWord();

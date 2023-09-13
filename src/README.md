@@ -12,6 +12,5 @@ projects:
 #    name: 项目名称
 #    desc: 项目详细描述
 #    link: https://你的项目链接
-footer: 自定义你的页脚文字
 ---
 

@@ -21,7 +21,7 @@ export default hopeTheme(
    //@ts-ignore
   avatar:'https://q.qlogo.cn/g?b=qq&nk=1615685977&s=100',
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
@@ -31,7 +31,8 @@ export default hopeTheme(
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  footer: '<a href="https://beian.miit.gov.cn" target=”_blank”>蜀ICP备19027681号</a><br>Copyright © 2019-present JasonLee',
+  copyright: '',
 
   displayFooter: true,
 
