@@ -2,9 +2,9 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 主页
 heroImage: /logo.svg
-heroText: JasonLee的博客
+heroText: JasonLee的技术分享
 heroFullScreen: true
 tagline: 
 projects:
