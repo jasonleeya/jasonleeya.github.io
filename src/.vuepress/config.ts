@@ -10,8 +10,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "JasonLee的个人技术分享 ",
-  description: "JasonLee的个人技术分享",
+  title: "我的技术分享 ",
+  description: "我的技术分享",
 
   theme,
   alias: {
