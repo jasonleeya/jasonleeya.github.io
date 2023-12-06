@@ -1,1 +1,0 @@
-import{_,o as s,c as a,b as e,d as t}from"./app-378f160d.js";const c={},o=e("h1",{id:"关于本站",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#关于本站","aria-hidden":"true"},"#"),t(" 关于本站")],-1),r=e("p",null,[t("这是一篇测试文章"),e("br"),t(" test")],-1),n=[o,r];function d(i,l){return s(),a("div",null,n)}const f=_(c,[["render",d],["__file","关于本站.html.vue"]]);export{f as default};

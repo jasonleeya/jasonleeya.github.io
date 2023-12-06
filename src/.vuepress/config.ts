@@ -8,7 +8,6 @@ const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
   base: "/",
-
   lang: "zh-CN",
   title: "我的技术分享 ",
   description: "我的技术分享",
